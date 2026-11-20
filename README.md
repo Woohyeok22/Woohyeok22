@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**Woohyeok22/Woohyeok22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! 👋
 
-Here are some ideas to get you started:
+I'm a Big Data student at Hallym University.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- Python
+- R
+- TensorFlow / Keras
+- Scikit-learn
+
+## 📂 Projects
+
+### CalorieSnap
+AI-based Food Image Classification App
+
+- Role: Deep Learning Model Development
+- Tech: Python, TensorFlow, Keras
+- Model: EfficientNetV2B0
+- [GitHub Repository](https://github.com/gmeag01/calorieSnap)
