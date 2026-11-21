@@ -30,3 +30,10 @@ AI-based Food Image Classification App
 - Tech: Python, TensorFlow, Keras
 - Model: EfficientNetV2B0
 - [GitHub Repository](https://github.com/gmeag01/calorieSnap)
+
+### 4. Molecular Generation using Reinforcement Learning
+- GRU-based Policy Network를 활용한 SMILES 기반 분자 생성
+- REINFORCE 알고리즘과 Reward Shaping을 통한 분자 특성 최적화
+- RDKit을 활용한 분자 유효성 및 다양성 평가
+- Tech Stack: Python, PyTorch, RDKit, Google Colab
+- [GitHub Repository](https://github.com/Woohyeok22/Reinforcement-Learning-based-Molecular-Generation)
